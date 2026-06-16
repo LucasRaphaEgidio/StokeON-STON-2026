@@ -14,7 +14,10 @@
 
 - [Felipe Xavier Lorevice] 
 - [Lucas Raphael Egídio da Silva] 
-- [Nome do Integrante 3] - GitHub
+- [Gabriel Higor de Lima]
+- [Luiz GUILHERME Palafóz Araújo]
+- [Eduardo Oller]
+- []
 
 
 
