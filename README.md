@@ -15,7 +15,7 @@
 - [Felipe Xavier Lorevice] 
 - [Lucas Raphael Egídio da Silva] 
 - [Gabriel Higor de Lima]
-- [Luiz GUILHERME Palafóz Araújo]
+- [Luiz Guilherme Palafóz Araújo]
 - [Eduardo Oller]
 - []
 
