@@ -49,4 +49,6 @@
 
 ##📌 Observações
 
-- Este projeto está sendo desenvolvido como atividade acadêmica da disciplina de [Desenvolvimento Ágil], consistindo na evolução e modernização para a plataforma Web de um sistema originalmente idealizado com interface Java Swing.
+- Este projeto está sendo desenvolvido como atividade acadêmica da disciplina de [Desenvolvimento Ágil], consistindo na evolução e modernização para a plataforma Web de um sistema originalmente idealizado com interface Java Swing
+
+Link do video para a apresentação [https://drive.google.com/file/d/12t7DM29EMpwYSmZSNVdsYu1Fx0dp78o5/view?usp=sharing]
