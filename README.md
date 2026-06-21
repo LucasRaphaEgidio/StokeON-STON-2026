@@ -2,7 +2,6 @@
 
 # 👥 StockON 📦
 
-(Inserir logo)
 
 ## 🎓 Disciplina
 
