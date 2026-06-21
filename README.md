@@ -16,7 +16,7 @@
 - [Gabriel Higor de Lima]
 - [Luiz Guilherme Palafóz Araújo]
 - [Eduardo Oller]
-- []
+- [Suzane Cristina Possidonio Vaz]
 
 
 
@@ -46,11 +46,7 @@
 
 - Gerentes, vendedores e estoquistas de lojas de materiais de construção que precisam de um sistema ágil para controlar inventário e registrar vendas de forma simples.
 
-## 📂 Documentos do Repositório
-
-(Os links serão adicionados conforme o desenvolvimento do projeto)
-
 
 ##📌 Observações
 
-- Este projeto está sendo desenvolvido como atividade acadêmica da disciplina de [Nome da Disciplina], consistindo na evolução e modernização para a plataforma Web de um sistema originalmente idealizado com interface Java Swing.
+- Este projeto está sendo desenvolvido como atividade acadêmica da disciplina de [Desenvolvimento Ágil], consistindo na evolução e modernização para a plataforma Web de um sistema originalmente idealizado com interface Java Swing.
